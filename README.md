@@ -1,6 +1,6 @@
 # ArqueiroVSDragao-Python
 
-Requerimentos:
+[b]Requerimentos:[/b]
 
 
 python-3.6.0
