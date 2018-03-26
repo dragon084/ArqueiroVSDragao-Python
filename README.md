@@ -1,11 +1,13 @@
 # ArqueiroVSDragao-Python
 
 Requerimentos:
+
 python-3.6.0
 pygame193cp36mwin32
 pygame-1.9.3-cp36-cp36m-win_amd64
 
 Instalando pygames:
+
 cd Python
 cd ..
 
